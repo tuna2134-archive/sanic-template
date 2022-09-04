@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.py
-sanic_template/__init__.py
-sanic_template.egg-info/PKG-INFO
-sanic_template.egg-info/SOURCES.txt
-sanic_template.egg-info/dependency_links.txt
-sanic_template.egg-info/requires.txt
-sanic_template.egg-info/top_level.txt
